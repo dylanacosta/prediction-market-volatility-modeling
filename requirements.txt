@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=2.0
+requests>=2.32
+scipy>=1.13
+scikit-learn>=1.6
+statsmodels>=0.14
+plotly>=6.0
+streamlit>=1.50
+nbformat>=5.10
+
