@@ -1,0 +1,13 @@
+{
+  "n_rows": 39229,
+  "n_markets": 148,
+  "ols_adj_r2": 0.5891687244979085,
+  "ols_r2": 0.5892629806791952,
+  "ols_reference_category": "US Elections",
+  "rf_mean_r2": 0.22795930522602292,
+  "rf_std_r2": 0.3846550878429694,
+  "category_importance_share": 0.013418027834139949,
+  "top_feature": "log_volume",
+  "second_feature": "time_to_expiry_days",
+  "significant_category_terms": 4
+}

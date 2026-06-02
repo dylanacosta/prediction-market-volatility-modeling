@@ -1,0 +1,10 @@
+{
+  "excluded_categories": [
+    "Crypto Airdrops",
+    "Crypto Corporate"
+  ],
+  "excluded_market_count": 12,
+  "excluded_observation_count": 1533,
+  "filter_label": "Excluding categories containing: Crypto",
+  "uses_saved_summary_artifacts": true
+}
